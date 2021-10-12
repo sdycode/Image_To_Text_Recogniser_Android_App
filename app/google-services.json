@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507772740980",
+    "project_id": "business-card-store",
+    "storage_bucket": "business-card-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507772740980:android:09be5d021488de7cd4f821",
+        "android_client_info": {
+          "package_name": "com.example.businesscardstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507772740980-n45j34jbfb2bi2m5t8n5ch11j7bb13b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOtCOZSynA3Dj2bVn4CWNL1NC2xTwJmsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507772740980-n45j34jbfb2bi2m5t8n5ch11j7bb13b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
